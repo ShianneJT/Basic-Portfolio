@@ -45,7 +45,7 @@ h1 {
 }
 
 #about-me {    
-
+    text-align: left;
     color: #F4B49C;   
 }
 
@@ -56,9 +56,11 @@ hr {
 
 #bio-image {
     float: left;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-right: 20px;
     margin-bottom: 20px;
+    width: 350px;
+    height: 350px;
 }
 
 p {
