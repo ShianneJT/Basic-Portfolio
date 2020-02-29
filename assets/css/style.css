@@ -80,6 +80,7 @@ hr {
 
 p {
     text-align: justify;
+    line-height: 20px;
 }
 
 p:last-child { 
