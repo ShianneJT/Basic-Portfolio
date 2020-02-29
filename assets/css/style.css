@@ -4,7 +4,7 @@
 
 body {
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     color: #555555;
     background-image: url(../images/sakura_bg.png);
     margin: 0;
@@ -35,7 +35,6 @@ h2 {
 a:link {
     color: #555555;
 }
-
 
 a:hover {
     color: #F4B49C;
@@ -75,7 +74,6 @@ p {
     text-align: justify;
 }
 
-
 #bio-image {
     float: left;
     margin-top: 10px;
@@ -84,15 +82,13 @@ p {
     height: 350px;
 }
 
-
 footer {
     border-top: 8px solid #F4B49C;
     background-color: #fef2ec;
-    text-align: center;
-    position: absolute;
     bottom: 0px;
     width: 100%;
     height: 50px; 
+    position: absolute;
 }
 
 /* Contact Page */
